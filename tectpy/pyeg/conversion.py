@@ -1,0 +1,6 @@
+x=set([1,2,3])
+print (x)
+y=tuple({5,6,7})
+print (y)
+z=list('hello')
+print (z)
